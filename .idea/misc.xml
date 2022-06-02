@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMSmaliIdeaPluginConfiguration">
+    <asm skipDebug="true" skipFrames="true" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/compose-model-1648103330123.xml" value="0.2609797297297297" />
+        <entry key="../../../../../layout/compose-model-1648103790417.xml" value="0.55" />
+        <entry key="../../../../../layout/compose-model-1648105993394.xml" value="0.2609797297297297" />
+        <entry key="../../../../../layout/compose-model-1648107009791.xml" value="0.625" />
+        <entry key="../../../../../layout/compose-model-1648107153984.xml" value="0.2609797297297297" />
+        <entry key="../../../../../layout/compose-model-1648111804184.xml" value="0.335" />
+        <entry key="../../../../../layout/compose-model-1648112714899.xml" value="0.24722222222222223" />
+        <entry key="../../../../../layout/compose-model-1648123358100.xml" value="0.23310810810810811" />
+        <entry key="../../../../../layout/compose-model-1648123389215.xml" value="0.2609797297297297" />
+        <entry key="../../../../../layout/compose-model-1648125339296.xml" value="0.165" />
+        <entry key="../../../../../layout/compose-model-1648203901008.xml" value="0.27280405405405406" />
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.157" />
+        <entry key="app/src/main/res/drawable/ic_fav.xml" value="0.157" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
